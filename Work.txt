@@ -1,0 +1,25 @@
+Behavioral Model for Live Detection of Apps Based Attack        
+
+IEEE Transactions on Computational Social Systems,Volume:10,Issue:3,Issue Date:June.2023
+
+Fid	
+App_name	
+size_bytes	
+rating_count_tot	
+rating_count_ver	
+user_rating	
+user_rating_ver	
+ver	
+prime_genre	
+sup_devices_num	
+Attack_Type	
+Dt
+Attack_hash_code
+prime_genre_hash_code
+ 
+
+
+
+
+
+ABMA Scheme
